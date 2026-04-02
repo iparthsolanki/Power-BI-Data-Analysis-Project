@@ -12,15 +12,11 @@ This projects focuses on analyzing datasets using Power BI, including data clean
 This project is a Crop Recommendation System Dashboard built using Power BI.  
 It helps in analyzing agricultural data and suggests suitable crops based on different environmental and soil parameters.
 
----
-
 ## Objective
 The main goal of this project is to:
 - Analyze agricultural data
 - Provide crop recommendations
 - Help farmers make data-driven decisions
-
----
 
 ## Features
 - Interactive Power BI Dashboard
@@ -29,31 +25,21 @@ The main goal of this project is to:
 - Data visualization (charts, graphs, filters)
 - Easy-to-understand UI
 
----
-
 ## Tools & Technologies
 - Power BI (.pbix file)
 - Data Visualization
 - Agricultural Dataset
 
----
-
 ## Project File
 - Crop_Recomendation.pbix → Main Power BI dashboard file
-
----
 
 ## How to Use
 1. Download the .pbix file
 2. Open it using Microsoft Power BI Desktop
 3. Explore dashboard visuals and insights
 
----
-
 ## Dashboard Preview
 (Add screenshots here if needed)
-
----
 
 ## Data Parameters (Example)
 - Nitrogen
@@ -63,24 +49,72 @@ The main goal of this project is to:
 - Humidity
 - pH value
 - Rainfall
-
----
-
+- 
 ## Use Cases
 - Farmers for crop planning
 - Agriculture students for analysis
 - Researchers for insights
-
----
-
+- 
 ## Contribution
 Feel free to fork this repository and contribute.
-
----
 
 ## License
 This project is for educational purposes.
 
-
 <h1> Mobile sales analysis </h1>
 <img src="def.png"/>
+
+# Mobile Sales Dashboard (Power BI)
+
+## Overview
+This project is a Mobile Sales Dashboard created using Power BI.  
+It provides insights into mobile sales data, helping to analyze performance, trends, and key business metrics.
+
+## Objective
+The main objective of this project is to:
+- Analyze mobile sales performance
+- Track revenue and sales trends
+- Provide data-driven insights for decision-making
+
+## Features
+- Interactive Power BI Dashboard
+- Sales performance tracking
+- Region-wise and product-wise analysis
+- Revenue and profit insights
+- Dynamic filters and visuals
+- 
+## Tools & Technologies
+- Power BI (.pbix file)
+- Data Visualization
+- Sales Dataset
+- 
+## Project File
+- Mobile_Sales.pbix → Main Power BI dashboard file
+
+## How to Use
+1. Download the .pbix file
+2. Open it using Microsoft Power BI Desktop
+3. Explore dashboards and insights
+
+## Dashboard Preview
+(Add screenshots here if needed)
+
+## Key Metrics (Example)
+- Total Sales
+- Total Revenue
+- Profit
+- Quantity Sold
+- Region-wise Sales
+- Product-wise Performance
+- 
+# Use Cases
+- Business analysis
+- Sales performance tracking
+- Data-driven decision making
+- Learning Power BI dashboards
+- 
+## Contribution
+Feel free to fork this repository and contribute.
+
+# License
+This project is for educational purposes.
