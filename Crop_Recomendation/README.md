@@ -1,3 +1,5 @@
+![Dashboard](./ABC.png)
+
 Crop Recommendation System (Power BI Dashboard)
 Overview
 This project is a Crop Recommendation System Dashboard built using Power BI.
