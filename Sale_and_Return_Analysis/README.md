@@ -40,6 +40,7 @@ The purpose of this project is to demonstrate data visualization skills and the 
 - Integrate real-time data sources
 - Enhance dashboard performance
 
+Modeling
 ![Dashboard](./Modeling.png)
  Power BI Sales and Returns Dashboard
 
@@ -81,6 +82,7 @@ The project is designed using the following tables:
 - Returns_Fact shares relationships with Product, Region, and Date
 - Proper key-based joins using IDs (ProductID, CustomerID, RegionID, Date)
 
+Dax Formulas
 ![Dashboard](./Dax_Formulas.png)
 
 # Power BI DAX Measures and Calculations
@@ -121,6 +123,7 @@ This file contains DAX measures and calculated columns used in the Power BI dash
 - RELATED, VALUES  
 - Time Intelligence (TOTALYTD, SAMEPERIODLASTYEAR, DATESINPERIOD)
 
+#Data Transformation
 - ![Dashboard](./Sales_Fact_Table.png)
 - ![Dashboard](./Return_Fact_Table.png)
 - ![Dashboard](./Date_Dim.png)
