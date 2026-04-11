@@ -120,4 +120,50 @@ This file contains DAX measures and calculated columns used in the Power BI dash
 - DIVIDE, SWITCH, IF  
 - RELATED, VALUES  
 - Time Intelligence (TOTALYTD, SAMEPERIODLASTYEAR, DATESINPERIOD)
-- 
+
+- ![Dashboard](./Sales_Fact_Table.png)
+- ![Dashboard](./Return_Fact_Table.png)
+- ![Dashboard](./Date_Dim.png)
+- # Power BI Data Transformation (Power Query)
+
+## Overview
+This project includes data cleaning and transformation steps performed in Power Query to prepare raw data for analysis in Power BI.
+
+## Tables Processed
+- Sales_Fact
+- Returns_Fact
+- Customer_Dim
+- Product_Dim
+- Region_Dim
+- Date_Dim
+
+## Key Transformations
+
+### Data Cleaning
+- Removed null values from key columns (CustomerID, ProductID, RegionID)
+- Removed unnecessary columns (DateKey, extra text columns)
+- Ensured all columns have correct data types
+
+### Data Transformation
+- Renamed columns for better readability
+- Added custom columns where required
+- Filtered rows to maintain valid data
+- Created proper date format (New_Date)
+
+### Data Structuring
+- Maintained star schema structure
+- Ensured consistency between fact and dimension tables
+- Applied indexing where needed
+
+## Tools Used
+- Power BI Power Query Editor
+- M Language (Power Query Formula Language)
+
+## Purpose
+These transformations ensure:
+- Clean and reliable dataset
+- Improved performance of dashboard
+- Accurate reporting and analysis
+
+## Usage
+All transformations are applied in Power Query before loading data into the Power BI model.
