@@ -127,6 +127,9 @@ This file contains DAX measures and calculated columns used in the Power BI dash
 - ![Dashboard](./Sales_Fact_Table.png)
 - ![Dashboard](./Return_Fact_Table.png)
 - ![Dashboard](./Date_Dim.png)
+- ![Dashboard](./Customer_Dim.png)
+- ![Dashboard](./Product_Dim.png)
+- ![Dashboard](./Region_Dim.png)
 - # Power BI Data Transformation (Power Query)
 
 ## Overview
