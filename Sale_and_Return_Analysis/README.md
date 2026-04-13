@@ -1,4 +1,4 @@
-![Dashboard](./DashBoard.png)
+![Dashboard](./DashBoard2.png)
  Power BI Dashboard Project
 
 ## Overview
