@@ -118,8 +118,8 @@ The project follows a Star Schema design for optimized performance and scalabili
 ![Dashboard](Drill-Through.png)
 
 
-### Data Model View
-![Data Model](Modeling.png)
+### Data Modeling View
+![Data Modeling](Modeling(4).png)
 
 ### Customer Dimension
 ![Customer Dimension](Customer_Dim.png)
