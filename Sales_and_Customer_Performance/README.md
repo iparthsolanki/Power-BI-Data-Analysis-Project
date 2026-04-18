@@ -122,10 +122,23 @@ The project follows a Star Schema design for optimized performance and scalabili
 ![Data Modeling](Modeling(4).png)
 
 ### Customer Dimension
-![Customer Dimension](Customer_Dim.png)
+![Customer Dimension](Customer(4).png)
 
 ### Date Dimension
-![Date Dimension](Date_Dim.png)
+![Date Dimension](Date(4).png)
+
+### Product Dimension
+![Product Dimension](Product(4).png)
+
+### Region Dimension
+![Region Dimension](Region(4).png)
+
+### Return_Fact
+![Return Fact](Return_Fact.png)
+
+### Sales Fact 
+![Sales Fact](Sales_Fact.png)
+
 
 ### DAX Calculations
 ![DAX](Dax_Formulas.png)
