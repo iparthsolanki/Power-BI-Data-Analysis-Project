@@ -1,2 +1,2 @@
-![Dashboard](./DashBoard(4).png)
+![Dashboard](./Dashoard(4).png)
 
