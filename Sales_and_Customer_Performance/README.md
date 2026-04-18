@@ -113,7 +113,7 @@ The project follows a Star Schema design for optimized performance and scalabili
 ## Dashboard Screenshots
 
 ### Main Dashboard
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard(4).png)
 
 ### Data Model View
 ![Data Model](Modeling.png)
