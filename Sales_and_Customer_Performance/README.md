@@ -114,6 +114,9 @@ The project follows a Star Schema design for optimized performance and scalabili
 
 ### Main Dashboard
 ![Dashboard](Dashboard(4).png)
+![Dashboard](Perameter(4).png)
+![Dashboard](Drill-Through.png)
+
 
 ### Data Model View
 ![Data Model](Modeling.png)
