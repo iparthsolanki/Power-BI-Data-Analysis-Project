@@ -1,4 +1,3 @@
-![Dashboard](./Dashboard(4).png)
 Sales Return & Customer Performance Dashboard
 Overview
 
