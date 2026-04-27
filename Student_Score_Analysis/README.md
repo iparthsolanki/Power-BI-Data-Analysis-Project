@@ -1,5 +1,36 @@
 # Student Analysis Dashboard (Power BI)
 
+### Main Dashboard
+![Dashboard](Dashboard(4).png)
+![Dashboard](Perameter(4).png)
+![Dashboard](Drill-Through.png)
+
+
+### Data Modeling View
+![Data Modeling](Score_Dashboard.png)
+
+### Student_Details
+![drill-through ](Student_Detail.png)
+
+### Data Modeling
+![Data Modeling](Data_Modeling.png)
+
+### Score Fact
+![Score Fact](Score.png)
+
+### Attendence Dimension
+![Attendence Dimension](Attendence.png)
+
+### Student Dimension
+![ Student Dimension](Student.png)
+
+### Behaviour Dimansion
+![Behaviour Dimansion](Behaviour.png)
+
+
+### DAX Calculations
+![DAX](Dax_Formulass.png)
+
 ## Overview
 This project is a Student Analysis Dashboard developed using Power BI.  
 It provides insights into student performance, behavior, and academic trends through interactive visualizations.
