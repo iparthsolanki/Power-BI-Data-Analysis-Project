@@ -1,10 +1,6 @@
 # Student Analysis Dashboard (Power BI)
 
 ### Main Dashboard
-![Dashboard](Dashboard(4).png)
-![Dashboard](Perameter(4).png)
-![Dashboard](Drill-Through.png)
-
 
 ### Data Modeling View
 ![Data Modeling](Score_Dashboard.png)
@@ -29,7 +25,7 @@
 
 
 ### DAX Calculations
-![DAX](Dax_Formulass.png)
+![DAX](Dax_formulass.png)
 
 ## Overview
 This project is a Student Analysis Dashboard developed using Power BI.  
